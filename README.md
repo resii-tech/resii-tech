@@ -9,8 +9,6 @@
   - [Elastic Security Framework](https://github.com/resii-tech/LABURL)
 - <b>Ethical Hacking</b>
   - [Penetration Test - Metasploitable3](https://github.com/resii-tech/LABURL)
-- <b>Powershell Disk Sanitization</b>
-  - [JWipe Disk (Disk Wiping Utility)](https://github.com/resii-tech/jwipe.powershell)
 
 <h2>🎓 Certifications</h2>
 
