@@ -1,7 +1,7 @@
-<h2 >Hi, I'm Randy</h2> 
+ <h2 >Hi, I'm Randy</h2> 
 <a href="https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a">Recent Coding Dojo Graduate</a> and <a href="https://github.com/resii-tech"><a href="https://www.linkedin.com/in/randyesanchezii">Cybersecurity Professional</a> - Welcome to my Github Page! </a></h2>
 
-<h2> Cybersecurity Projects</h2>
+<h2>💻 Cybersecurity Projects</h2>
 
 - <b>Vulnerability Management</b>
   - [Vulnerability Scanning with Nessus Essentials](https://github.com/resii-tech/LABURL)
@@ -12,15 +12,19 @@
 - <b>Powershell Disk Sanitization</b>
   - [JWipe Disk (Disk Wiping Utility)](https://github.com/resii-tech/jwipe.powershell)
 
-<h2>Certifications</h2>
+<h2>🎓 Certifications</h2>
 
 - [Coding Dojo Cybersecurity Bootcamp](https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a)
 
-<h2>Connect with me</h2>
+<h2>✍ Popular Blog Posts</h2>
+
+- [The Quintessential Guide to Vulnerability Management with Nessus](https://medium.com/@hispanictitanic/the-quintessential-guide-to-vulnerability-management-with-nessus-3eeaf3e885f9)
+
+<h2>🤳 Connect with me</h2>
 
 - 🔭 I’m currently working on building out projects for different platforms (content creation)
 - 🌱 I’m currently learning DFIR (Digital Forensics and Incident Response) 
-- 📫 How to reach me: [Email me](resancheziirandall@gmail.com) or [Message me](https://linkedin.com/in/randyesanchezii)
+- 📫 How to reach me: [Email me](sancheziirandall@gmail.com) or [Message me](https://linkedin.com/in/randyesanchezii)
 
 
 <!--
