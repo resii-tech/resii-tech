@@ -4,7 +4,7 @@
 <h2>💻 Cybersecurity Projects</h2>
 
 - <b>Vulnerability Management</b>
-  - [Vulnerability Scanning with Nessus Essentials](https://github.com/resii-tech/LABURL)
+  - [Nessus Essentials Lab](https://github.com/resii-tech/LABURL)
 - <b>Security Information and Event Management (SIEM)</b>
   - [Elastic Security Framework](https://github.com/resii-tech/LABURL)
 - <b>Ethical Hacking</b>
