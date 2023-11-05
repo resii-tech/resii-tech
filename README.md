@@ -1,4 +1,4 @@
- ### Hi, I'm Randy
+ ## Hi, I'm Randy
 
  [Content Creator](https://medium.com/@hispanictitanic), <a href="https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a">Coding Dojo Graduate</a>, and <a href="https://github.com/resii-tech"><a href="https://www.linkedin.com/in/randyesanchezii">Cybersecurity Professional</a> - Welcome to my Github Page! </a></h2>
 
