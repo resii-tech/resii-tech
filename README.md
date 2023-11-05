@@ -1,12 +1,13 @@
  <h2 >Hi, I'm Randy</h2> 
-<a href="https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a">Recent Coding Dojo Graduate</a> and <a href="https://github.com/resii-tech"><a href="https://www.linkedin.com/in/randyesanchezii">Cybersecurity Professional</a> - Welcome to my Github Page! </a></h2>
+
+ [Content Creator](https://medium.com/@hispanictitanic), <a href="https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a">Coding Dojo Graduate</a>, and <a href="https://github.com/resii-tech"><a href="https://www.linkedin.com/in/randyesanchezii">Cybersecurity Professional</a> - Welcome to my Github Page! </a></h2>
 
 <h2>💻 Cybersecurity Projects</h2>
 
 - <b>Vulnerability Management</b>
-  - [Nessus Essentials Lab](https://github.com/resii-tech/NessusEssentialsLab)
-- <b>Security Information and Event Management (SIEM)</b>
-  - [Elastic Security Framework](https://github.com/resii-tech/LABURL)
+  - [Nessus Essentials Lab](https://github.com/resii-tech/NessusEssentialsLab)    
+- Security Information and Event Management (SIEM)
+  - [Elastic Security Framework](https://github.com/resii-tech/LABURL)    
 - <b>Ethical Hacking</b>
   - [Penetration Test - Metasploitable3](https://github.com/resii-tech/LABURL)
 
@@ -16,7 +17,8 @@
 
 <h2>✍ Popular Blog Posts</h2>
 
-- [The Quintessential Guide to Vulnerability Management with Nessus](https://medium.com/@hispanictitanic/the-quintessential-guide-to-vulnerability-management-with-nessus-3eeaf3e885f9)
+   - [The Quintessential Guide to Vulnerability Management with Nessus](https://medium.com/@hispanictitanic/the-quintessential-guide-to-vulnerability-management-with-nessus-3eeaf3e885f9)
+   - [Nessus Essentials Lab: Technical Walkthrough](https://medium.com/@hispanictitanic/nessus-essentials-lab-technical-walkthrough-f1922a3ba4db)
 
 <h2>🤳 Connect with me</h2>
 
