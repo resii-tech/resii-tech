@@ -14,8 +14,8 @@
 
 <h2>🎓 Certifications</h2>
 
-- [Coding Dojo Cybersecurity Bootcamp](https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a)
 - [Comptia Security+ Certification](https://www.credly.com/badges/f8c26c1b-c060-4235-a9b5-7992ce0726aa)
+- [Coding Dojo Cybersecurity Bootcamp](https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a)
 
 <h2>✍ Popular Blog Posts</h2>
 
