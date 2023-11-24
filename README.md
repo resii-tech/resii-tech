@@ -11,7 +11,7 @@
 - **Security Information and Event Management (SIEM)**
   - [Elastic Security Lab](https://github.com/resii-tech/LABURL)
 - **SQL for Security Analysts**
-  - [SQL Lab](https://github.com/resii-tech/LABURL)
+  - [SQL Lab](https://github.com/resii-tech/SQL-Lab)
 
 
 <h2>🎓 Certifications</h2>
