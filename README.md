@@ -9,7 +9,9 @@
 - <b>Penetration Test - Metasploitable3</b>
   - [Ethical Hacking Lab](https://github.com/resii-tech/EthicalHackingLab) 
 - **Security Information and Event Management (SIEM)**
-  - [Elastic Security Lab](https://github.com/resii-tech/LABURL) 
+  - [Elastic Security Lab](https://github.com/resii-tech/LABURL)
+- **SQL for Security Analysts**
+  - [SQL Lab](https://github.com/resii-tech/LABURL)
 
 
 <h2>🎓 Certifications</h2>
@@ -21,6 +23,7 @@
 
    - [The Quintessential Guide to Vulnerability Management with Nessus](https://medium.com/@hispanictitanic/the-quintessential-guide-to-vulnerability-management-with-nessus-3eeaf3e885f9)
    - [Nessus Essentials Lab: Technical Walkthrough](https://medium.com/@hispanictitanic/nessus-essentials-lab-technical-walkthrough-f1922a3ba4db)
+   - [SQL Lab for Security Analysts: A Walkthrough](https://hispanictitanic.medium.com/sql-lab-for-security-analysts-63c59720b777)
 
 <h2>🤳 Connect with me</h2>
 
