@@ -12,6 +12,8 @@
   - [Elastic Security Lab](https://github.com/resii-tech/LABURL)
 - **SQL for Security Analysts**
   - [SQL Lab](https://github.com/resii-tech/SQL-Lab)
+- **Python Automation**
+  - [Conditional Statements Lab](https://github.com/resii-tech/LABURL)
 
 
 <h2>🎓 Certifications</h2>
