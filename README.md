@@ -13,7 +13,7 @@
 - **SQL for Security Analysts**
   - [SQL Lab](https://github.com/resii-tech/SQL-Lab)
 - **Python Automation**
-  - [Conditional Statements Lab](https://github.com/resii-tech/LABURL)
+  - [Conditional Statements Lab](https://github.com/resii-tech/PythonAutomationLab)
 
 
 <h2>🎓 Certifications</h2>
