@@ -1,6 +1,6 @@
  ## Hi, I'm Randy
 
- [Content Creator](https://medium.com/@hispanictitanic), <a href="https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a">Coding Dojo Graduate</a>, and <a href="https://github.com/resii-tech"><a href="https://www.linkedin.com/in/randyesanchezii">Cybersecurity Professional</a> - Welcome to my Github Page! </a></h2>
+ [Content Creator](https://medium.com/@thecyberlandscape), <a href="https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a">Coding Dojo Graduate</a>, and <a href="https://github.com/resii-tech"><a href="https://www.linkedin.com/in/randyesanchezii">Cybersecurity Professional</a> - Welcome to my Github Page! </a></h2>
 
 <h2>💻 Cybersecurity Projects</h2>
 
@@ -25,9 +25,10 @@
 
 <h2>✍ Popular Blog Posts</h2>
 
-   - [The Quintessential Guide to Vulnerability Management with Nessus](https://medium.com/@hispanictitanic/the-quintessential-guide-to-vulnerability-management-with-nessus-3eeaf3e885f9)
-   - [Nessus Essentials Lab: Technical Walkthrough](https://medium.com/@hispanictitanic/nessus-essentials-lab-technical-walkthrough-f1922a3ba4db)
-   - [SQL Lab for Security Analysts: A Walkthrough](https://hispanictitanic.medium.com/sql-lab-for-security-analysts-63c59720b777)
+   - [Ratchet Cybersecurity Series](https://medium.com/@thecyberlandscape/ratchet-cybersecurity-series-the-intro-5c530863d9b2)
+   - [The Quintessential Guide to Vulnerability Management with Nessus](https://medium.com/@thecyberlandscape/the-quintessential-guide-to-vulnerability-management-with-nessus-3eeaf3e885f9)
+   - [Nessus Essentials Lab: Technical Walkthrough](https://medium.com/@thecyberlandscape/nessus-essentials-lab-technical-walkthrough-f1922a3ba4db)
+   - [SQL Lab for Security Analysts: A Walkthrough](https://medium.com/@thecyberlandscape/sql-lab-for-security-analysts-63c59720b777) 
 
 <h2>🤳 Connect with me</h2>
 
