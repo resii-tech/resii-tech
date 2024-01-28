@@ -18,8 +18,10 @@
 
 <h2>🎓 Certifications</h2>
 
-- [Comptia Security+ Certification](https://www.credly.com/badges/f8c26c1b-c060-4235-a9b5-7992ce0726aa)
+- [Google Cybersecurity Certification](https://www.credly.com/badges/83d8122f-c6ba-4937-8cd2-cafa5d4dcac7/public_url)
+- [CompTIA Security+ce Certification](https://www.credly.com/badges/f8c26c1b-c060-4235-a9b5-7992ce0726aa)
 - [Coding Dojo Cybersecurity Bootcamp](https://app.diplomasafe.com/en-US/diploma/dd05f4766eb85d279531830f39ce1932a33c9d95a)
+- [ISC2 Certified in Cybersecurity - Candidate](https://www.credly.com/badges/ad27dedb-4d0e-493f-b13d-84d2739d35b1/public_url)
 
 <h2>✍ Popular Blog Posts</h2>
 
